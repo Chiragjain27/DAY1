@@ -1,0 +1,9 @@
+Q 2.
+#include <stdio.h>
+
+int main()
+{
+    printf("CHIRAG PD");
+
+    return 0;
+}
